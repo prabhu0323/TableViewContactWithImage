@@ -15,6 +15,7 @@
 		DB3B69EC20A0330C00A7AF3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB3B69EA20A0330C00A7AF3F /* LaunchScreen.storyboard */; };
 		DB3B69F720A0330C00A7AF3F /* TableViewContactWithImageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB3B69F620A0330C00A7AF3F /* TableViewContactWithImageTests.swift */; };
 		DB3B6A0220A0330C00A7AF3F /* TableViewContactWithImageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB3B6A0120A0330C00A7AF3F /* TableViewContactWithImageUITests.swift */; };
+		DB3B6A1020A0335F00A7AF3F /* ContactsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB3B6A0F20A0335F00A7AF3F /* ContactsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DB3B69FD20A0330C00A7AF3F /* TableViewContactWithImageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewContactWithImageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB3B6A0120A0330C00A7AF3F /* TableViewContactWithImageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewContactWithImageUITests.swift; sourceTree = "<group>"; };
 		DB3B6A0320A0330C00A7AF3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB3B6A0F20A0335F00A7AF3F /* ContactsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				DB3B69DE20A0330C00A7AF3F /* AppDelegate.swift */,
 				DB3B69E020A0330C00A7AF3F /* ViewController.swift */,
 				DB3B69E220A0330C00A7AF3F /* Main.storyboard */,
+				DB3B6A0F20A0335F00A7AF3F /* ContactsTableViewController.swift */,
 				DB3B69E820A0330C00A7AF3F /* Assets.xcassets */,
 				DB3B69EA20A0330C00A7AF3F /* LaunchScreen.storyboard */,
 				DB3B69ED20A0330C00A7AF3F /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				DB3B69E120A0330C00A7AF3F /* ViewController.swift in Sources */,
 				DB3B69DF20A0330C00A7AF3F /* AppDelegate.swift in Sources */,
+				DB3B6A1020A0335F00A7AF3F /* ContactsTableViewController.swift in Sources */,
 				DB3B69E720A0330C00A7AF3F /* TableViewContactWithImage.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
